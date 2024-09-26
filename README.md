@@ -1,4 +1,4 @@
-# Senior iOS & Machine Learning Engineer
+# Machine Learning Engineer | Senior iOS Engineer
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective-C-438EFF?style=flat&logo=objective-c&logoColor=white)
@@ -8,7 +8,7 @@
 ![MLFlow](https://img.shields.io/badge/MLFlow-563695?style=flat&logo=mlflow&logoColor=white)
 ![Mojo](https://img.shields.io/badge/Mojo-%F0%9F%94%A5-000000?style=flat)
 
-I am a **Senior iOS Engineer** with extensive experience in **Swift** and **Objective-C**, currently focused on automating Machine Learning pipelines using tools such as **Docker** and **MLFlow**. In my role, I train **ML** and **vision models** using **Python** and **PyTorch**, leveraging **MLOps** practices to streamline and optimize workflows. Additionally, I handle development tools by setting up Docker-based **devcontainers** to ensure smooth onboarding and collaboration.
+I am a **Machine Learning Engineer** with extensive experience in **Python** and **PyTorch**, currently focused on automating Machine Learning pipelines using tools such as **Docker** and **MLFlow**. In my role, I train **ML** and **vision models**, leveraging **MLOps** practices to streamline and optimize workflows. Additionally, I handle development tools by setting up Docker-based **devcontainers** to ensure smooth onboarding and collaboration.
 
 With a background in **Electrical & Electronics Engineering** and strong skills in **mathematics** and **programming**, I bridge the gap between Machine Learning and iOS development projects. I am committed to leveraging technology to create high-performance, intelligent solutions and continuously seek opportunities to incorporate innovative AI/ML advancements into my work. In my free time, I am exploring the **Mojo Programming Language** to enhance my development skills and expand my technical expertise.
 
@@ -25,7 +25,7 @@ With a background in **Electrical & Electronics Engineering** and strong skills 
 - **Continuous Learning:** Staying updated with the latest developments in AI, ML, and mobile technologies.
 
 ---
-
+    
 ## **Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mussacharles/) 
